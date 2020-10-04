@@ -1,6 +1,6 @@
 ### Hey there, nice to see you 👋
 
-![nyc](https://i.imgur.com/4ZkzRROl.jpg)
+![nyc](https://i.imgur.com/4ZkzRROh.jpg)
 
 <p>Welcome to my page! I'm Ivana Dokic software engineer based in NYC.</p>
 
