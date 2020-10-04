@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 📫 How to reach me: 
+[Blog:](https://dev.to/dashboard)
 
-     Blog:: https://dev.to/dashboard
+[Twitter:](https://twitter.com/LloydPile)
      
-     Twitter https://twitter.com/LloydPile
-     
-     LinkedIn: https://www.linkedin.com/in/ivana-dokic/
+[LinkedIn:](https://www.linkedin.com/in/ivana-dokic/)
      
