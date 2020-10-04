@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 📫 How to reach me: 
-[Blog:](https://dev.to/dashboard)
+[Blog:](https://dev.to/dashboard "click here")
 
 [Twitter:](https://twitter.com/LloydPile)
      
